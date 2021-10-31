@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **duy99uit/duy99uit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1634460087/meme/giphy_b3hpjs.gif">
-</p>
-
 # I'm NAP - A website developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)  
 ![](https://komarev.com/ghpvc/?username=napthedev)
+
+<p align="center">
+  <img src="https://res.cloudinary.com/naptest/image/upload/v1634460087/meme/giphy_b3hpjs.gif">
+</p>
 
 ## My knowledge
 
