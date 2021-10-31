@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm NAP - A website developer
+# I'm DUY - A Frontend developer
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)  
-![](https://komarev.com/ghpvc/?username=napthedev)
+![](https://komarev.com/ghpvc/?username=duy99uit)
 
 <p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1634460087/meme/giphy_b3hpjs.gif">
+  <img src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif">
 </p>
 
 ## My knowledge
@@ -63,38 +63,3 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-# Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/napthedev)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/napthedev)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877882975855992852)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/enaypi)
-
-# Favourite programming memes
-
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580411/meme/1da74262b3277a7923367_are2ib.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580410/meme/4a546f9d9ed857860ec94_jwfgff.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580410/meme/8cbd974c6609af57f6182_vk5vkw.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580410/meme/b08d984e690ba055f91a5_wjslon.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580410/meme/bb77d38222c7eb99b2d63_d1iett.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580409/meme/c15edda62ce3e5bdbcf21_bowqjo.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580409/meme/0953878f76cabf94e6db9_gowwfd.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580409/meme/25e92828d96d1033497c6_wnyeac.jpg">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/naptest/image/upload/v1632580731/meme/IMG_0120_o4xufp.jpg">
-</p>
