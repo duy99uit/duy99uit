@@ -7,7 +7,7 @@
 🚀 **Mobile Developer | Frontend Developer**  
 💻 **Passionate about building high-performance applications with amazing UI**
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30)
+![Header Animation](https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:111827&height=200&section=header&text=🚀%20Welcome%20to%20my%20GitHub!%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
