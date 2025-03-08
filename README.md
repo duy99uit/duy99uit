@@ -36,8 +36,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Duy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duy99uit&show_icons=true&theme=radical&hide=prs)  
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duy99uit&layout=compact&theme=radical)
 
 </div>
